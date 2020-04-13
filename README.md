@@ -21,5 +21,7 @@ pod 'LJScrollText';
   `textView.text = @"这是抖音滚动字符串wqdqwd大青蛙多群无多群无多群无多群无多群无多群无多群无多群无";`
 
   `textView.fade = 0.5;`
+  
+  `textView.speed = 0.32;`
 
   `[**self**.view addSubview:textView];`
